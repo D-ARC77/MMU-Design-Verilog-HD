@@ -23,11 +23,11 @@ This project implements a Memory Management Unit (MMU) using Verilog HDL.
 
 ## Architecture
 
-<Virtual Address
+Virtual Address<br>
 ↓
-Page Table
+Page Table<br>
 ↓
-Permission Check
+Permission Check<br>
 ↓
 Physical Address>
 
